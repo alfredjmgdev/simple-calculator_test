@@ -27,7 +27,7 @@ http://localhost:3000/calculator
 
 You need to send a body parameter with the key "expression", is a required field.
 
-Note: You can also use swagger to make the request using the the link in the "Doc" section from this readme file.
+Note: You can also use swagger to make the request using the the link in the "Doc" section in this readme file.
 
 ## Test
 

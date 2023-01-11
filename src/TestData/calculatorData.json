@@ -1,0 +1,22 @@
+{
+    "add": {
+        "expression": "55+55+(20+10)",
+        "result": "140"
+    },
+    "subtract": {
+        "expression": "200-100-(5-25)",
+        "result": "120"
+    },
+    "multiply": {
+        "expression": "50*50(10*2)",
+        "result": "50"
+    },
+    "divide": {
+        "expression": "50+50+(100/2)",
+        "result": "150"
+    },
+    "several_operations_with_parenthesis": {
+        "expression": "10*(2+5)*10",
+        "result": "700"
+    }
+}

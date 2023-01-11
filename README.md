@@ -40,7 +40,7 @@ Note: You can change the data for testing in src/TestData/calculatorData.json fi
 
 ## Doc
 
-You can enter swagger using this link: 
+You can enter in swagger using this link: 
 http://localhost:3000/api
 
 ## License
